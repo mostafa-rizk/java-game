@@ -21,7 +21,7 @@ In this assignment you will be developing a simple java-based game by following 
 
 - [Wave game](https://www.youtube.com/playlist?list=PLWms45O3n--6TvZmtFHaCWRZwEqnz2MHa), 15 parts
 
-![wave].png](images/wave.png)
+![wave.png](images/wave.png)
 
 - [Platform game](https://www.youtube.com/playlist?list=PLWms45O3n--54U-22GDqKMRGlXROOZtMx), 17 parts
 
