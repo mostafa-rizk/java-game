@@ -15,9 +15,12 @@ Depending on your Linux distribution the installation method will vary and depen
 
 # Java game
 In this assignment you will be developing a simple java-based game by following along a video tutorial of your choice. You will choose of of the following tutorials:
-- [Top Down Shooter game](https://youtu.be/e9jRfgjV4FQ), 14 parts
-- [Wave game](https://youtu.be/2HaTSSE4skU), 15 parts
-- [Platform game](https://youtu.be/DXT11ZbB2Mk), 17 parts
+- [Top Down Shooter game](https://www.youtube.com/playlist?list=PLWms45O3n--5vDnNd6aiu1CSWX3JlCU1n), 14 parts
+![topdownshooter.png](images/topdownshooter.png)
+- [Wave game](https://www.youtube.com/playlist?list=PLWms45O3n--6TvZmtFHaCWRZwEqnz2MHa), 15 parts
+![wave].png](images/wave.png)
+- [Platform game](https://www.youtube.com/playlist?list=PLWms45O3n--54U-22GDqKMRGlXROOZtMx), 17 parts
+![platform.png](images/platform.png)
 
 # Marking
 - Up to 75%: Finishing one of the tutorial with a java game having the same functionality as in the tutorial (no modifications or extra features added).
