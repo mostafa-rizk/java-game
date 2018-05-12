@@ -1,7 +1,13 @@
 # netbeans-1
+In this assignment you will be developing a simple game in java. All development (coding, compilation, execution) will (`host take place remotelly on your Linux workstation (the one you set up in the [linux-server-assignment](https://github.com/mariopineda/linux-server-assignment)) using the Raspberry Pi as a remote terminal.
 
-Install JDK on your Linux server. Depending on your distribution the installation method will vary. For Ubuntu and Debian based systems installation steps are:
-1. sudo add-apt-repository ppa:openjdk-r/ppa
-sudo apt-get update
+After obtaining the ip address of your Linux server (`hostname -I`) you can connect to it from your Raspberry Pi using ssh (`ssh -X <ip address>`). For this assignment you have the option of choosing the code editor of your choice. A few good choices are:
+- [vim](https://www.vim.org/): concole-based editor that is ubiquitous and exceptionally powerful
+- [atom](https://atom.io/) or [sublime text](https://www.sublimetext.com/): both state-of-the-art GUI code editors
 
-Download and install the [Java SE NetBeans IDE](https://netbeans.org/downloads/) Insta
+Make sure your Linux server has the following software installed:
+- the code editor of your choices
+- git
+- JDK
+
+Depending on your Linux distribution the installation method will vary.
